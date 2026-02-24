@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋 I'm Aryan Agrawal</h1>
+<h3 align="center">Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
-<!--
-**0Aryan1/0Aryan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const aryan = {
+    name: "Aryan Agrawal",
+    role: "Full Stack Developer",
+    location: "India",
+    currentFocus: ["System Design", "Scalable Web Apps", "Cloud", "Open Source"],
+    languages: ["JavaScript", "C++", "SQL"],
+    technologies: {
+        frontend: ["React.js", "HTML5", "CSS3", "Tailwind CSS"],
+        backend: ["Node.js", "Express.js"],
+        databases: ["MongoDB", "MySQL"],
+        tools: ["Git", "GitHub", "Linux", "VS Code"]
+    },
+    motto: "Building scalable solutions with clean and efficient code."
+};
